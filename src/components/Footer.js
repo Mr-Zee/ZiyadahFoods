@@ -17,7 +17,7 @@ export default function Footer() {
           
         <div className="flex flex-col items-center">
           <h4 className="font-semibold mb-3">Quick Links</h4>
-          <ul className="space-y-2 text-white/80">
+          <ul className="space-y-2 text-white/80 text-center">
             <li><Link to="/" className="hover:underline">Home</Link></li>
             <li><Link to="/products" className="hover:underline">Products</Link></li>
             <li><Link to="/franchise" className="hover:underline">Our Brands</Link></li>
